@@ -17,6 +17,6 @@
   
 4.训练
 
-[训练集]（https://github.com/qwjaskzxl/text-classification/blob/master/samples/train_set.txt）
+[训练集]（https://github.com/qwjaskzxl/text-classification/tree/master/samples）
 
 5.评估得出准确率
