@@ -17,6 +17,6 @@
   
 4.训练
 
-        （text-classification/test_set.txt at master · qwjaskzxl/text-classification · GitHub）
+        text-classification/test_set.txt at master · qwjaskzxl/text-classification · GitHub
 
 5.评估得出准确率
